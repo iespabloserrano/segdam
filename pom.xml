@@ -10,6 +10,7 @@
   	<module>common</module>
   	<module>android</module>
   	<module>web</module>
+  	<module>components</module>
   </modules>
   
 <properties>
