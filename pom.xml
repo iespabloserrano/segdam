@@ -11,6 +11,7 @@
   	<module>android</module>
   	<module>web</module>
   	<module>components</module>
+  	<module>common2</module>
   </modules>
   
 <properties>
